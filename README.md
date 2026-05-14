@@ -1,5 +1,10 @@
 # AppStateSaver
 App Snapshot/State Saving AND Restoring in the same app made EASY! No skills in the Terminal needed nor patience for a Time machine backup. 
+
+
+******************************************
+<img width="931" height="696" alt="Screenshot 2026-05-14 at 23 04 22" src="https://github.com/user-attachments/assets/8391b76f-6d65-4a8d-93cf-2abc366b30eb" />
+
 ******************************************
 
 Example usage: How to setup on a new mac
